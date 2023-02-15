@@ -1,0 +1,14 @@
+C:\Source\INF11107\INF11107_TP_2\bin\Debug\netcoreapp3.1\TP2_GestionDesSalaires.exe
+C:\Source\INF11107\INF11107_TP_2\bin\Debug\netcoreapp3.1\TP2_GestionDesSalaires.deps.json
+C:\Source\INF11107\INF11107_TP_2\bin\Debug\netcoreapp3.1\TP2_GestionDesSalaires.runtimeconfig.json
+C:\Source\INF11107\INF11107_TP_2\bin\Debug\netcoreapp3.1\TP2_GestionDesSalaires.runtimeconfig.dev.json
+C:\Source\INF11107\INF11107_TP_2\bin\Debug\netcoreapp3.1\TP2_GestionDesSalaires.dll
+C:\Source\INF11107\INF11107_TP_2\bin\Debug\netcoreapp3.1\TP2_GestionDesSalaires.pdb
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.csproj.AssemblyReference.cache
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.AssemblyInfoInputs.cache
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.AssemblyInfo.cs
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.csproj.CoreCompileInputs.cache
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.dll
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.pdb
+C:\Source\INF11107\INF11107_TP_2\obj\Debug\netcoreapp3.1\TP2_GestionDesSalaires.genruntimeconfig.cache
